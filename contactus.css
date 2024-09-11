@@ -1,0 +1,17 @@
+form{
+    border: solid 1px;
+    width: 600px;
+    margin-left: 500px;
+    background-color: #349b9f;
+    padding-left: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: #0c273f;
+}
+label{
+    font-size: 25px;
+    font-weight: bold;
+    color: aliceblue;
+}
